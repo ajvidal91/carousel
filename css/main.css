@@ -1,0 +1,75 @@
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+
+     box-sizing: border-box; /* IE */
+}
+
+*{
+  font-family: 'Nunito', sans-serif;
+  color: #8F9805
+}
+
+section{
+  height: 650px;
+  width: 50%;
+  margin-left: 20%;
+  text-align: center;
+  font-size: 2em;
+}
+
+#pics{
+  width: 100%;
+  height: 600px;
+}
+
+body{
+background-color: #996300;
+}
+
+#back{
+  background: #194f73;
+  background-image: -webkit-linear-gradient(top, #194f73, #4d3373);
+  background-image: -moz-linear-gradient(top, #194f73, #4d3373);
+  background-image: -ms-linear-gradient(top, #194f73, #4d3373);
+  background-image: -o-linear-gradient(top, #194f73, #4d3373);
+  background-image: linear-gradient(to bottom, #194f73, #4d3373);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #b5a514;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+#skip{
+  background: #194f73;
+  background-image: -webkit-linear-gradient(top, #194f73, #4d3373);
+  background-image: -moz-linear-gradient(top, #194f73, #4d3373);
+  background-image: -ms-linear-gradient(top, #194f73, #4d3373);
+  background-image: -o-linear-gradient(top, #194f73, #4d3373);
+  background-image: linear-gradient(to bottom, #194f73, #4d3373);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #b5a514;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
